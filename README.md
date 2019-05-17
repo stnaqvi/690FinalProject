@@ -2,7 +2,7 @@
 Welcome to GatorChat! We've created this app to be a simple groupchat messaging application based on "Channels". The basic idea is that the user authenticates using their name and student ID to participate in a channel of their choice for eg class discussions etc. The Google Firebase Framework is used as the foundation of this app. The goal was to connect the Gators through this app for their group discussion without any hustle. 
 
 
-# Our Goals-
+# Our Goals
 * Must-haves
 - Authentication
 - Create Group Channels
